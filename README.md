@@ -1,7 +1,14 @@
-# ООП y27
+# ASAP
 
-## Guides
+## Общее
 
 - [Общая инструкция для авторизации](guides/asap-start.md)
-- [ASAP – инструкция для студентов](guides/asap-student-guide.md)
-- [ASAP – инструкция для преподавателей](guides/asap-tutor.md)
+
+## Студентам
+
+- [Использование системы](guides/asap-student-guide.md)
+
+## Преподавателям
+
+- [Создание курса в системе](guides/create-subject-course.md)
+- [Использование системы](guides/asap-tutor.md)
